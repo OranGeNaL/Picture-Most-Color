@@ -8,3 +8,13 @@ C:\Users\pshen\source\repos\AverageColor\AverageColor\obj\Debug\AverageColor.csp
 C:\Users\pshen\source\repos\AverageColor\AverageColor\obj\Debug\AverageColor.csproj.CoreCompileInputs.cache
 C:\Users\pshen\source\repos\AverageColor\AverageColor\obj\Debug\AverageColor.exe
 C:\Users\pshen\source\repos\AverageColor\AverageColor\obj\Debug\AverageColor.pdb
+C:\Users\pshen\Documents\GitHub\Picture-Most-Color\AverageColor\AverageColor\bin\Debug\AverageColor.exe.config
+C:\Users\pshen\Documents\GitHub\Picture-Most-Color\AverageColor\AverageColor\bin\Debug\AverageColor.exe
+C:\Users\pshen\Documents\GitHub\Picture-Most-Color\AverageColor\AverageColor\bin\Debug\AverageColor.pdb
+C:\Users\pshen\Documents\GitHub\Picture-Most-Color\AverageColor\AverageColor\obj\Debug\AverageColor.csprojAssemblyReference.cache
+C:\Users\pshen\Documents\GitHub\Picture-Most-Color\AverageColor\AverageColor\obj\Debug\AverageColor.Form1.resources
+C:\Users\pshen\Documents\GitHub\Picture-Most-Color\AverageColor\AverageColor\obj\Debug\AverageColor.Properties.Resources.resources
+C:\Users\pshen\Documents\GitHub\Picture-Most-Color\AverageColor\AverageColor\obj\Debug\AverageColor.csproj.GenerateResource.cache
+C:\Users\pshen\Documents\GitHub\Picture-Most-Color\AverageColor\AverageColor\obj\Debug\AverageColor.csproj.CoreCompileInputs.cache
+C:\Users\pshen\Documents\GitHub\Picture-Most-Color\AverageColor\AverageColor\obj\Debug\AverageColor.exe
+C:\Users\pshen\Documents\GitHub\Picture-Most-Color\AverageColor\AverageColor\obj\Debug\AverageColor.pdb

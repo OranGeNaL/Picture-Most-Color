@@ -67,12 +67,12 @@
             // 
             this.panel2.Location = new System.Drawing.Point(612, 13);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(102, 58);
+            this.panel2.Size = new System.Drawing.Size(125, 94);
             this.panel2.TabIndex = 3;
             // 
             // modeButton
             // 
-            this.modeButton.Location = new System.Drawing.Point(612, 78);
+            this.modeButton.Location = new System.Drawing.Point(612, 113);
             this.modeButton.Name = "modeButton";
             this.modeButton.Size = new System.Drawing.Size(125, 38);
             this.modeButton.TabIndex = 4;
@@ -91,6 +91,7 @@
             this.Controls.Add(this.getImage);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.panel1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);

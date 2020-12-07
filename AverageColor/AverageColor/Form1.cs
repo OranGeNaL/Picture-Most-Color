@@ -26,7 +26,7 @@ namespace AverageColor
 
             try
             {
-                Photo.bitmap = (Bitmap)Bitmap.FromFile(openFileDialog.FileName);
+                Photo.bitmap = (Bitmap)Image.FromFile(openFileDialog.FileName);
                 Photo.imgAdress = openFileDialog.FileName;
 
                 pictureBox1.BackgroundImage = Photo.bitmap;
@@ -44,7 +44,12 @@ namespace AverageColor
         private void modeButton_Click(object sender, EventArgs e)
         {
             if(Photo.bitmap != null)
-                panel2.BackColor = Photo.getModeColor(Photo.bitmap, 10);
+                panel2.BackColor = Photo.getModeColor(Photo.bitmap, 20);
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
